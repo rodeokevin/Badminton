@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.9.14",
+    "puppeteer": "^22.12.0"
+  }
+}
